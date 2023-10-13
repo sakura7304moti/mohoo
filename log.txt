@@ -1,0 +1,973 @@
+hashtag -> #ヘル絵スタ
+WARNING:root:Can not find chromedriver for currently installed chrome version.
+
+DevTools listening on ws://127.0.0.1:56196/devtools/browser/31f8c009-6bae-4069-a5ba-a1d3daac2d85
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%98%E3%83%AB%E7%B5%B5%E3%82%B9%E3%82%BF&ei=UTF-8&mtype=image
+tweet count -> 27
+tweet count -> 27
+tweet count -> 51
+tweet count -> 82
+tweet count -> 112
+tweet count -> 142
+datetime 2023-08-28 19:18:00
+date over => 15/14
+#ヘル絵スタ result : 142
+UPDATE: 100%|█████████████████████████████████████████████████| 142/142 [00:31<00:00,  4.46it/s]
+hashtag -> #笹の絵
+WARNING:root:Can not find chromedriver for currently installed chrome version.
+
+DevTools listening on ws://127.0.0.1:56270/devtools/browser/d200f8bd-0fb0-4c09-b520-9817015a84a0
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%AC%B9%E3%81%AE%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 22
+tweet count -> 22
+tweet count -> 48
+tweet count -> 70
+datetime 2023-08-26 09:12:00
+date over => 17/14
+#笹の絵 result : 70
+UPDATE: 100%|███████████████████████████████████████████████████| 70/70 [00:15<00:00,  4.48it/s]
+WARNING:root:Can not find chromedriver for currently installed chrome version.
+
+DevTools listening on ws://127.0.0.1:56350/devtools/browser/cebcd855-aa37-4247-ba0c-486ed2df4410
+holo scraper:   0%|                                                      | 0/77 [00:00<?, ?it/s]Fanart : #soraArt
+url -> https://search.yahoo.co.jp/realtime/search?p=%23soraArt&ei=UTF-8&mtype=image
+tweet count -> 26
+tweet count -> 26
+tweet count -> 59
+tweet count -> 95
+tweet count -> 135
+tweet count -> 167
+tweet count -> 206
+datetime 2023-08-24 23:06:00
+date over => 19/14
+#soraArt result : 206
+UPDATE: 100%|███████████████████████████████████████████████| 206/206 [00:00<00:00, 3294.22it/s]
+holo scraper:   1%|▌                                           | 1/77 [00:49<1:02:41, 49.49s/it]Fanart : #ロボ子Art
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%AD%E3%83%9C%E5%AD%90Art&ei=UTF-8&mtype=image
+tweet count -> 29
+tweet count -> 29
+tweet count -> 64
+tweet count -> 101
+datetime 2023-08-29 03:50:00
+date over => 15/14
+#ロボ子Art result : 101
+UPDATE: 100%|███████████████████████████████████████████████| 101/101 [00:00<00:00, 3498.92it/s]
+holo scraper:   3%|█▏                                            | 2/77 [01:13<43:21, 34.69s/it]Fanart : #miko_Art
+url -> https://search.yahoo.co.jp/realtime/search?p=%23miko_Art&ei=UTF-8&mtype=image
+tweet count -> 19
+tweet count -> 19
+tweet count -> 46
+tweet count -> 69
+tweet count -> 95
+tweet count -> 122
+tweet count -> 158
+tweet count -> 187
+tweet count -> 213
+tweet count -> 240
+tweet count -> 265
+tweet count -> 298
+tweet count -> 323
+tweet count -> 343
+tweet count -> 380
+datetime 2023-08-28 10:00:00
+date over => 15/14
+#miko_Art result : 380
+UPDATE: 100%|███████████████████████████████████████████████| 380/380 [00:00<00:00, 6076.04it/s]
+holo scraper:   4%|█▋                                          | 3/77 [03:11<1:29:24, 72.49s/it]Fanart : #ほしまちぎゃらりー
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%BB%E3%81%97%E3%81%BE%E3%81%A1%E3%81%8E%E3%82%83%E3%82%89%E3%82%8A%E3%83%BC&ei=UTF-8&mtype=image
+tweet count -> 25
+tweet count -> 25
+tweet count -> 46
+tweet count -> 70
+tweet count -> 94
+tweet count -> 115
+tweet count -> 150
+tweet count -> 170
+tweet count -> 186
+tweet count -> 213
+tweet count -> 233
+tweet count -> 261
+tweet count -> 276
+tweet count -> 301
+tweet count -> 330
+tweet count -> 360
+tweet count -> 390
+tweet count -> 409
+tweet count -> 439
+tweet count -> 472
+tweet count -> 493
+datetime 2023-08-29 00:03:00
+date over => 15/14
+#ほしまちぎゃらりー result : 493
+UPDATE: 100%|███████████████████████████████████████████████| 493/493 [00:00<00:00, 1745.55it/s]
+holo scraper:   5%|██▏                                        | 4/77 [06:52<2:39:48, 131.35s/it]Fanart : #AZKiART
+url -> https://search.yahoo.co.jp/realtime/search?p=%23AZKiART&ei=UTF-8&mtype=image
+tweet count -> 16
+tweet count -> 16
+tweet count -> 43
+tweet count -> 74
+datetime 2023-08-27 21:29:00
+date over => 16/14
+#AZKiART result : 74
+UPDATE: 100%|█████████████████████████████████████████████████| 74/74 [00:00<00:00, 7395.95it/s]
+holo scraper:   6%|██▊                                         | 5/77 [07:18<1:51:58, 93.32s/it]Fanart : #メルArt
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%A1%E3%83%ABArt&ei=UTF-8&mtype=image
+tweet count -> 22
+tweet count -> 22
+tweet count -> 49
+datetime 2023-08-20 08:00:00
+date over => 23/14
+#メルArt result : 49
+UPDATE: 100%|█████████████████████████████████████████████████| 49/49 [00:00<00:00, 6125.26it/s]
+holo scraper:   8%|███▍                                        | 6/77 [07:40<1:21:29, 68.86s/it]Fanart : #アロ絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%82%A2%E3%83%AD%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 24
+tweet count -> 24
+tweet count -> 52
+tweet count -> 77
+datetime 2023-08-22 00:05:00
+date over => 22/14
+#アロ絵 result : 77
+UPDATE: 100%|█████████████████████████████████████████████████| 77/77 [00:00<00:00, 4703.71it/s]
+holo scraper:   9%|████                                        | 7/77 [08:05<1:03:50, 54.73s/it]Fanart : #はあとart
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%AF%E3%81%82%E3%81%A8art&ei=UTF-8&mtype=image
+tweet count -> 23
+tweet count -> 23
+tweet count -> 52
+datetime 2023-08-24 04:10:00
+date over => 20/14
+#はあとart result : 52
+UPDATE: 100%|███████████████████████████████████████████████████████████| 52/52 [00:00<?, ?it/s]
+holo scraper:  10%|████▊                                         | 8/77 [08:25<50:02, 43.51s/it]Fanart : #絵フブキ
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%B5%B5%E3%83%95%E3%83%96%E3%82%AD&ei=UTF-8&mtype=image
+tweet count -> 19
+tweet count -> 19
+tweet count -> 40
+tweet count -> 59
+tweet count -> 85
+tweet count -> 108
+tweet count -> 139
+tweet count -> 159
+tweet count -> 187
+tweet count -> 215
+tweet count -> 238
+tweet count -> 261
+tweet count -> 285
+tweet count -> 309
+tweet count -> 334
+tweet count -> 360
+datetime 2023-08-28 20:16:00
+date over => 15/14
+#絵フブキ result : 360
+UPDATE: 100%|███████████████████████████████████████████████| 360/360 [00:00<00:00, 5896.97it/s]
+holo scraper:  12%|█████▏                                      | 9/77 [10:34<1:19:48, 70.42s/it]Fanart : #祭絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%A5%AD%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 18
+tweet count -> 18
+tweet count -> 48
+tweet count -> 78
+tweet count -> 99
+datetime 2023-08-27 07:05:00
+date over => 16/14
+#祭絵 result : 99
+UPDATE: 100%|█████████████████████████████████████████████████| 99/99 [00:00<00:00, 6330.20it/s]
+holo scraper:  13%|█████▌                                     | 10/77 [11:06<1:05:06, 58.31s/it]Fanart : #あくあーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%82%E3%81%8F%E3%81%82%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 19
+tweet count -> 19
+tweet count -> 45
+tweet count -> 73
+tweet count -> 105
+tweet count -> 142
+tweet count -> 173
+tweet count -> 206
+tweet count -> 241
+tweet count -> 267
+datetime 2023-08-28 22:20:00
+date over => 15/14
+#あくあーと result : 267
+UPDATE: 100%|███████████████████████████████████████████████| 267/267 [00:00<00:00, 1480.87it/s]
+holo scraper:  14%|██████▏                                    | 11/77 [12:13<1:07:13, 61.12s/it]Fanart : #シオンの書物
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%82%B7%E3%82%AA%E3%83%B3%E3%81%AE%E6%9B%B8%E7%89%A9&ei=UTF-8&mtype=image
+tweet count -> 26
+tweet count -> 26
+tweet count -> 57
+tweet count -> 89
+tweet count -> 121
+tweet count -> 148
+datetime 2023-08-27 21:00:00
+date over => 16/14
+#シオンの書物 result : 148
+UPDATE: 100%|███████████████████████████████████████████████| 148/148 [00:00<00:00, 3130.20it/s]
+holo scraper:  16%|███████                                      | 12/77 [12:51<58:30, 54.01s/it]Fanart : #しょこらーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%97%E3%82%87%E3%81%93%E3%82%89%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 21
+tweet count -> 21
+tweet count -> 45
+tweet count -> 71
+tweet count -> 98
+datetime 2023-08-28 07:25:00
+date over => 15/14
+#しょこらーと result : 98
+UPDATE: 100%|█████████████████████████████████████████████████| 98/98 [00:00<00:00, 6269.42it/s]
+holo scraper:  17%|███████▌                                     | 13/77 [13:22<50:13, 47.09s/it]Fanart : #プロテインザスバル
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%82%B6%E3%82%B9%E3%83%90%E3%83%AB&ei=UTF-8&mtype=image
+tweet count -> 28
+tweet count -> 28
+tweet count -> 61
+tweet count -> 95
+tweet count -> 123
+tweet count -> 153
+tweet count -> 196
+tweet count -> 222
+tweet count -> 256
+tweet count -> 301
+tweet count -> 337
+datetime 2023-08-27 17:19:00
+date over => 16/14
+#プロテインザスバル result : 337
+UPDATE: 100%|███████████████████████████████████████████████| 337/337 [00:00<00:00, 1953.30it/s]
+holo scraper:  18%|████████▏                                    | 14/77 [14:37<58:22, 55.59s/it]Fanart : #百鬼絵巻
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%99%BE%E9%AC%BC%E7%B5%B5%E5%B7%BB&ei=UTF-8&mtype=image
+tweet count -> 26
+tweet count -> 26
+tweet count -> 52
+tweet count -> 80
+tweet count -> 107
+tweet count -> 138
+tweet count -> 170
+tweet count -> 191
+tweet count -> 215
+tweet count -> 247
+tweet count -> 275
+tweet count -> 311
+tweet count -> 341
+datetime 2023-08-27 08:00:00
+date over => 16/14
+#百鬼絵巻 result : 341
+UPDATE: 100%|███████████████████████████████████████████████| 341/341 [00:00<00:00, 2938.71it/s]
+holo scraper:  19%|████████▍                                  | 15/77 [16:13<1:09:51, 67.61s/it]Fanart : #みおーん絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%BF%E3%81%8A%E3%83%BC%E3%82%93%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 26
+tweet count -> 26
+tweet count -> 59
+tweet count -> 86
+tweet count -> 116
+tweet count -> 148
+tweet count -> 179
+datetime 2023-08-28 20:25:00
+date over => 15/14
+#みおーん絵 result : 179
+UPDATE: 100%|███████████████████████████████████████████████| 179/179 [00:00<00:00, 2889.60it/s]
+holo scraper:  21%|████████▉                                  | 16/77 [16:57<1:01:30, 60.50s/it]Fanart : #絵かゆ
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%B5%B5%E3%81%8B%E3%82%86&ei=UTF-8&mtype=image
+tweet count -> 27
+tweet count -> 27
+tweet count -> 55
+tweet count -> 83
+tweet count -> 106
+tweet count -> 134
+tweet count -> 169
+tweet count -> 200
+tweet count -> 220
+tweet count -> 258
+tweet count -> 287
+tweet count -> 314
+tweet count -> 344
+tweet count -> 366
+datetime 2023-08-28 16:07:00
+date over => 15/14
+#絵かゆ result : 366
+UPDATE: 100%|███████████████████████████████████████████████| 366/366 [00:00<00:00, 2123.48it/s]
+holo scraper:  22%|█████████▍                                 | 17/77 [18:43<1:14:09, 74.16s/it]Fanart : #できたてころね
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%A7%E3%81%8D%E3%81%9F%E3%81%A6%E3%81%93%E3%82%8D%E3%81%AD&ei=UTF-8&mtype=image
+tweet count -> 21
+tweet count -> 21
+tweet count -> 45
+tweet count -> 71
+tweet count -> 103
+tweet count -> 129
+tweet count -> 163
+tweet count -> 189
+tweet count -> 220
+tweet count -> 252
+tweet count -> 280
+tweet count -> 312
+tweet count -> 341
+datetime 2023-08-28 19:04:00
+date over => 15/14
+#できたてころね result : 341
+UPDATE: 100%|███████████████████████████████████████████████| 341/341 [00:00<00:00, 1476.94it/s]
+holo scraper:  23%|██████████                                 | 18/77 [20:18<1:19:13, 80.58s/it]Fanart : #ぺこらーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%BA%E3%81%93%E3%82%89%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 20
+tweet count -> 20
+tweet count -> 42
+tweet count -> 74
+tweet count -> 100
+tweet count -> 119
+tweet count -> 153
+tweet count -> 170
+tweet count -> 187
+tweet count -> 213
+tweet count -> 233
+tweet count -> 261
+tweet count -> 289
+tweet count -> 322
+tweet count -> 344
+tweet count -> 376
+datetime 2023-08-28 21:28:00
+date over => 15/14
+#ぺこらーと result : 376
+UPDATE: 100%|███████████████████████████████████████████████| 376/376 [00:00<00:00, 4180.32it/s]
+holo scraper:  25%|██████████▌                                | 19/77 [22:29<1:32:38, 95.84s/it]Fanart : #絵クロマンサー
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%B5%B5%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC&ei=UTF-8&mtype=image
+tweet count -> 17
+tweet count -> 17
+tweet count -> 31
+datetime 2023-08-17 13:58:00
+date over => 26/14
+#絵クロマンサー result : 31
+UPDATE: 100%|█████████████████████████████████████████████████| 31/31 [00:00<00:00, 2512.97it/s]
+holo scraper:  26%|███████████▏                               | 20/77 [22:49<1:09:15, 72.90s/it]Fanart : #しらぬえ
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%97%E3%82%89%E3%81%AC%E3%81%88&ei=UTF-8&mtype=image
+tweet count -> 34
+tweet count -> 34
+tweet count -> 67
+tweet count -> 100
+tweet count -> 134
+tweet count -> 167
+tweet count -> 208
+datetime 2023-08-26 14:23:00
+date over => 17/14
+#しらぬえ result : 208
+UPDATE: 100%|███████████████████████████████████████████████| 208/208 [00:00<00:00, 4367.64it/s]
+holo scraper:  27%|████████████▎                                | 21/77 [23:33<59:59, 64.27s/it]Fanart : #ノエラート
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%8E%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%88&ei=UTF-8&mtype=image
+tweet count -> 25
+tweet count -> 25
+tweet count -> 51
+tweet count -> 77
+tweet count -> 102
+tweet count -> 139
+tweet count -> 162
+datetime 2023-08-27 20:02:00
+date over => 16/14
+#ノエラート result : 162
+UPDATE: 100%|███████████████████████████████████████████████| 162/162 [00:00<00:00, 3421.99it/s]
+holo scraper:  29%|████████████▊                                | 22/77 [24:17<53:25, 58.28s/it]Fanart : #マリンのお宝
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%9E%E3%83%AA%E3%83%B3%E3%81%AE%E3%81%8A%E5%AE%9D&ei=UTF-8&mtype=image
+tweet count -> 24
+tweet count -> 24
+tweet count -> 39
+tweet count -> 65
+tweet count -> 88
+tweet count -> 104
+tweet count -> 133
+tweet count -> 159
+tweet count -> 178
+tweet count -> 208
+tweet count -> 228
+tweet count -> 245
+tweet count -> 276
+tweet count -> 301
+tweet count -> 327
+tweet count -> 345
+tweet count -> 376
+tweet count -> 401
+tweet count -> 432
+tweet count -> 456
+tweet count -> 479
+tweet count -> 490
+tweet count -> 516
+tweet count -> 549
+tweet count -> 573
+tweet count -> 588
+tweet count -> 614
+tweet count -> 632
+tweet count -> 660
+tweet count -> 689
+datetime 2023-08-28 19:24:00
+date over => 15/14
+#マリンのお宝 result : 689
+UPDATE: 100%|████████████████████████████████████████████████| 689/689 [00:00<00:00, 873.75it/s]
+holo scraper:  30%|████████████▌                             | 23/77 [32:27<2:48:49, 187.59s/it]Fanart : #かなたーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%8B%E3%81%AA%E3%81%9F%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 25
+tweet count -> 25
+tweet count -> 55
+tweet count -> 77
+tweet count -> 106
+tweet count -> 135
+tweet count -> 166
+tweet count -> 204
+tweet count -> 230
+datetime 2023-08-28 23:25:00
+date over => 15/14
+#かなたーと result : 230
+UPDATE: 100%|███████████████████████████████████████████████| 230/230 [00:00<00:00, 2916.59it/s]
+holo scraper:  31%|█████████████                             | 24/77 [33:26<2:11:36, 148.99s/it]Fanart : #つのまきあーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%A4%E3%81%AE%E3%81%BE%E3%81%8D%E3%81%82%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 27
+tweet count -> 27
+tweet count -> 51
+tweet count -> 75
+tweet count -> 103
+tweet count -> 133
+tweet count -> 168
+datetime 2023-08-27 22:55:00
+date over => 16/14
+#つのまきあーと result : 168
+UPDATE: 100%|███████████████████████████████████████████████| 168/168 [00:00<00:00, 2586.47it/s]
+holo scraper:  32%|█████████████▋                            | 25/77 [34:10<1:41:58, 117.65s/it]Fanart : #TOWART
+url -> https://search.yahoo.co.jp/realtime/search?p=%23TOWART&ei=UTF-8&mtype=image
+tweet count -> 29
+tweet count -> 29
+tweet count -> 54
+tweet count -> 85
+tweet count -> 111
+tweet count -> 139
+tweet count -> 182
+tweet count -> 210
+tweet count -> 232
+tweet count -> 272
+datetime 2023-08-27 12:24:00
+date over => 16/14
+#TOWART result : 272
+UPDATE: 100%|███████████████████████████████████████████████| 272/272 [00:00<00:00, 2485.28it/s]
+holo scraper:  34%|██████████████▏                           | 26/77 [35:16<1:26:55, 102.27s/it]Fanart : #ルーナート
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%AB%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%88&ei=UTF-8&mtype=image
+tweet count -> 29
+tweet count -> 29
+tweet count -> 59
+tweet count -> 93
+tweet count -> 126
+tweet count -> 157
+tweet count -> 192
+datetime 2023-08-25 21:57:00
+date over => 18/14
+#ルーナート result : 192
+UPDATE: 100%|███████████████████████████████████████████████| 192/192 [00:00<00:00, 4461.16it/s]
+holo scraper:  35%|███████████████                            | 27/77 [36:01<1:10:40, 84.82s/it]Fanart : #みかじ絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%BF%E3%81%8B%E3%81%98%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 34
+tweet count -> 34
+tweet count -> 65
+datetime 2023-08-16 09:35:00
+date over => 27/14
+#みかじ絵 result : 65
+UPDATE: 100%|███████████████████████████████████████████████████████████| 65/65 [00:00<?, ?it/s]
+holo scraper:  36%|████████████████▎                            | 28/77 [36:19<53:05, 65.00s/it]Fanart : #LamyArt
+url -> https://search.yahoo.co.jp/realtime/search?p=%23LamyArt&ei=UTF-8&mtype=image
+tweet count -> 14
+tweet count -> 14
+tweet count -> 40
+tweet count -> 65
+tweet count -> 90
+tweet count -> 112
+tweet count -> 137
+tweet count -> 169
+datetime 2023-08-27 10:44:00
+date over => 16/14
+#LamyArt result : 169
+UPDATE: 100%|███████████████████████████████████████████████| 169/169 [00:00<00:00, 5598.01it/s]
+holo scraper:  38%|████████████████▉                            | 29/77 [37:10<48:41, 60.86s/it]Fanart : #ねねアルバム
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%AD%E3%81%AD%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0&ei=UTF-8&mtype=image
+tweet count -> 26
+tweet count -> 26
+tweet count -> 57
+tweet count -> 85
+tweet count -> 115
+tweet count -> 141
+tweet count -> 175
+datetime 2023-08-27 19:38:00
+date over => 16/14
+#ねねアルバム result : 175
+UPDATE: 100%|███████████████████████████████████████████████| 175/175 [00:00<00:00, 3800.80it/s]
+holo scraper:  39%|█████████████████▌                           | 30/77 [37:55<43:44, 55.85s/it]Fanart : #ししらーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%97%E3%81%97%E3%82%89%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 21
+tweet count -> 21
+tweet count -> 43
+tweet count -> 69
+tweet count -> 95
+tweet count -> 128
+tweet count -> 157
+tweet count -> 186
+tweet count -> 220
+tweet count -> 251
+tweet count -> 278
+tweet count -> 306
+tweet count -> 330
+tweet count -> 361
+tweet count -> 390
+datetime 2023-08-28 00:29:00
+date over => 16/14
+#ししらーと result : 390
+UPDATE: 100%|███████████████████████████████████████████████| 390/390 [00:00<00:00, 2788.80it/s]
+holo scraper:  40%|██████████████████                           | 31/77 [39:54<57:19, 74.78s/it]Fanart : #絵まる
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%B5%B5%E3%81%BE%E3%82%8B&ei=UTF-8&mtype=image
+tweet count -> 30
+tweet count -> 30
+tweet count -> 62
+tweet count -> 97
+tweet count -> 124
+tweet count -> 157
+tweet count -> 195
+datetime 2023-08-26 07:17:00
+date over => 17/14
+#絵まる result : 195
+UPDATE: 100%|███████████████████████████████████████████████| 195/195 [00:00<00:00, 4067.56it/s]
+holo scraper:  42%|██████████████████▋                          | 32/77 [40:38<49:13, 65.63s/it]Fanart : #まのあろ絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%BE%E3%81%AE%E3%81%82%E3%82%8D%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 39
+datetime 2020-08-15 00:00:00
+date over => 1124/14
+#まのあろ絵 result : 39
+UPDATE: 100%|█████████████████████████████████████████████████| 39/39 [00:00<00:00, 1246.75it/s]
+holo scraper:  43%|███████████████████▎                         | 33/77 [40:46<35:31, 48.44s/it]Fanart : #Laplus_Artdesu
+url -> https://search.yahoo.co.jp/realtime/search?p=%23Laplus_Artdesu&ei=UTF-8&mtype=image
+tweet count -> 27
+tweet count -> 27
+tweet count -> 56
+tweet count -> 85
+tweet count -> 114
+tweet count -> 142
+tweet count -> 179
+tweet count -> 205
+tweet count -> 228
+tweet count -> 264
+datetime 2023-08-27 20:06:00
+date over => 16/14
+#Laplus_Artdesu result : 264
+UPDATE: 100%|███████████████████████████████████████████████| 264/264 [00:00<00:00, 3378.98it/s]
+holo scraper:  44%|███████████████████▊                         | 34/77 [41:53<38:39, 53.95s/it]Fanart : #Luillust
+url -> https://search.yahoo.co.jp/realtime/search?p=%23Luillust&ei=UTF-8&mtype=image
+tweet count -> 28
+tweet count -> 28
+tweet count -> 52
+tweet count -> 86
+tweet count -> 113
+tweet count -> 152
+datetime 2023-08-26 05:37:00
+date over => 17/14
+#Luillust result : 152
+UPDATE: 100%|███████████████████████████████████████████████| 152/152 [00:00<00:00, 4796.38it/s]
+holo scraper:  45%|████████████████████▍                        | 35/77 [42:31<34:22, 49.11s/it]Fanart : #こよりすけっち
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%93%E3%82%88%E3%82%8A%E3%81%99%E3%81%91%E3%81%A3%E3%81%A1&ei=UTF-8&mtype=image
+tweet count -> 21
+tweet count -> 21
+tweet count -> 51
+tweet count -> 79
+tweet count -> 111
+tweet count -> 133
+tweet count -> 163
+tweet count -> 191
+tweet count -> 222
+tweet count -> 251
+tweet count -> 285
+datetime 2023-08-29 02:24:00
+date over => 15/14
+#こよりすけっち result : 285
+UPDATE: 100%|███████████████████████████████████████████████| 285/285 [00:00<00:00, 4559.86it/s]
+holo scraper:  47%|█████████████████████                        | 36/77 [43:46<38:56, 56.98s/it]Fanart : #さかまた飼育日記
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%95%E3%81%8B%E3%81%BE%E3%81%9F%E9%A3%BC%E8%82%B2%E6%97%A5%E8%A8%98&ei=UTF-8&mtype=image
+tweet count -> 20
+tweet count -> 20
+tweet count -> 48
+tweet count -> 80
+tweet count -> 105
+tweet count -> 121
+tweet count -> 151
+tweet count -> 172
+tweet count -> 196
+tweet count -> 224
+tweet count -> 249
+tweet count -> 276
+tweet count -> 303
+datetime 2023-08-27 19:28:00
+date over => 16/14
+#さかまた飼育日記 result : 303
+UPDATE: 100%|███████████████████████████████████████████████| 303/303 [00:00<00:00, 4804.56it/s]
+holo scraper:  48%|█████████████████████▌                       | 37/77 [45:22<45:46, 68.67s/it]Fanart : #いろはにも絵を
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%84%E3%82%8D%E3%81%AF%E3%81%AB%E3%82%82%E7%B5%B5%E3%82%92&ei=UTF-8&mtype=image
+tweet count -> 27
+tweet count -> 27
+tweet count -> 57
+tweet count -> 95
+tweet count -> 125
+tweet count -> 155
+tweet count -> 188
+tweet count -> 231
+tweet count -> 266
+tweet count -> 297
+tweet count -> 324
+tweet count -> 352
+tweet count -> 385
+datetime 2023-08-28 22:05:00
+date over => 15/14
+#いろはにも絵を result : 385
+UPDATE: 100%|███████████████████████████████████████████████| 385/385 [00:00<00:00, 4925.32it/s]
+holo scraper:  49%|██████████████████████▏                      | 38/77 [46:57<49:41, 76.45s/it]Fanart : #ioarts
+url -> https://search.yahoo.co.jp/realtime/search?p=%23ioarts&ei=UTF-8&mtype=image
+tweet count -> 9
+datetime 2023-08-23 00:32:00
+date over => 21/14
+#ioarts result : 9
+UPDATE: 100%|███████████████████████████████████████████████████| 9/9 [00:00<00:00, 2978.44it/s]
+holo scraper:  51%|██████████████████████▊                      | 39/77 [47:05<35:28, 56.02s/it]Fanart : #HoshinovArt
+url -> https://search.yahoo.co.jp/realtime/search?p=%23HoshinovArt&ei=UTF-8&mtype=image
+tweet count -> 13
+datetime 2023-08-24 10:53:00
+date over => 19/14
+#HoshinovArt result : 13
+UPDATE: 100%|████████████████████████████████████████████████| 13/13 [00:00<00:00, 12920.84it/s]
+holo scraper:  52%|███████████████████████▍                     | 40/77 [47:14<25:46, 41.79s/it]Fanart : #GambaRisu
+url -> https://search.yahoo.co.jp/realtime/search?p=%23GambaRisu&ei=UTF-8&mtype=image
+tweet count -> 9
+datetime 2020-04-21 00:00:00
+date over => 1240/14
+#GambaRisu result : 9
+UPDATE: 100%|███████████████████████████████████████████████████| 9/9 [00:00<00:00, 3857.82it/s]
+holo scraper:  53%|███████████████████████▉                     | 41/77 [47:22<18:58, 31.63s/it]Fanart : #graveyART
+url -> https://search.yahoo.co.jp/realtime/search?p=%23graveyART&ei=UTF-8&mtype=image
+tweet count -> 20
+datetime 2023-08-28 06:13:00
+date over => 15/14
+#graveyART result : 20
+UPDATE: 100%|█████████████████████████████████████████████████| 20/20 [00:00<00:00, 2499.21it/s]
+holo scraper:  55%|████████████████████████▌                    | 42/77 [47:31<14:37, 25.07s/it]Fanart : #anyatelier
+url -> https://search.yahoo.co.jp/realtime/search?p=%23anyatelier&ei=UTF-8&mtype=image
+tweet count -> 32
+datetime 2023-08-16 18:34:00
+date over => 27/14
+#anyatelier result : 32
+UPDATE: 100%|███████████████████████████████████████████████████████████| 32/32 [00:00<?, ?it/s]
+holo scraper:  56%|█████████████████████████▏                   | 43/77 [47:40<11:23, 20.09s/it]Fanart : #Reinessance
+url -> https://search.yahoo.co.jp/realtime/search?p=%23Reinessance&ei=UTF-8&mtype=image
+tweet count -> 28
+datetime 2023-08-15 14:04:00
+date over => 28/14
+#Reinessance result : 28
+UPDATE: 100%|███████████████████████████████████████████████████████████| 28/28 [00:00<?, ?it/s]
+holo scraper:  57%|█████████████████████████▋                   | 44/77 [47:48<09:07, 16.59s/it]Fanart : #Zetacrylic
+url -> https://search.yahoo.co.jp/realtime/search?p=%23Zetacrylic&ei=UTF-8&mtype=image
+tweet count -> 34
+datetime 2023-06-21 00:00:00
+date over => 84/14
+#Zetacrylic result : 34
+UPDATE: 100%|███████████████████████████████████████████████████████████| 34/34 [00:00<?, ?it/s]
+holo scraper:  58%|██████████████████████████▎                  | 45/77 [47:57<07:31, 14.10s/it]Fanart : #inKaela
+url -> https://search.yahoo.co.jp/realtime/search?p=%23inKaela&ei=UTF-8&mtype=image
+tweet count -> 28
+datetime 2023-08-13 00:00:00
+date over => 31/14
+#inKaela result : 28
+UPDATE: 100%|███████████████████████████████████████████████████████████| 28/28 [00:00<?, ?it/s]
+holo scraper:  60%|██████████████████████████▉                  | 46/77 [48:04<06:19, 12.25s/it]Fanart : #AeruSeni
+url -> https://search.yahoo.co.jp/realtime/search?p=%23AeruSeni&ei=UTF-8&mtype=image
+tweet count -> 35
+datetime 2023-06-27 00:00:00
+date over => 78/14
+#AeruSeni result : 35
+UPDATE: 100%|███████████████████████████████████████████████████████████| 35/35 [00:00<?, ?it/s]
+holo scraper:  61%|███████████████████████████▍                 | 47/77 [48:13<05:34, 11.16s/it]Fanart : #callillust
+url -> https://search.yahoo.co.jp/realtime/search?p=%23callillust&ei=UTF-8&mtype=image
+tweet count -> 26
+datetime 2023-08-28 01:11:00
+date over => 16/14
+#callillust result : 26
+UPDATE: 100%|███████████████████████████████████████████████████████████| 26/26 [00:00<?, ?it/s]
+holo scraper:  62%|████████████████████████████                 | 48/77 [48:22<05:01, 10.40s/it]Fanart : #カリイラスト
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%82%AB%E3%83%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88&ei=UTF-8&mtype=image
+tweet count -> 16
+datetime 2022-04-30 00:00:00
+date over => 501/14
+#カリイラスト result : 16
+UPDATE: 100%|██████████████████████████████████████████████████| 16/16 [00:00<00:00, 947.69it/s]
+holo scraper:  64%|████████████████████████████▋                | 49/77 [48:30<04:29,  9.62s/it]Fanart : #artsofashes
+url -> https://search.yahoo.co.jp/realtime/search?p=%23artsofashes&ei=UTF-8&mtype=image
+tweet count -> 36
+datetime 2022-11-04 00:00:00
+date over => 313/14
+#artsofashes result : 36
+UPDATE: 100%|█████████████████████████████████████████████████| 36/36 [00:00<00:00, 2398.04it/s]
+holo scraper:  65%|█████████████████████████████▏               | 50/77 [48:38<04:09,  9.23s/it]Fanart : #絵ニックス
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%B5%B5%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9&ei=UTF-8&mtype=image
+tweet count -> 35
+datetime 2021-06-28 00:00:00
+date over => 807/14
+#絵ニックス result : 35
+UPDATE: 100%|█████████████████████████████████████████████████| 35/35 [00:00<00:00, 7561.98it/s]
+holo scraper:  66%|█████████████████████████████▊               | 51/77 [48:46<03:53,  8.98s/it]Fanart : #inART
+url -> https://search.yahoo.co.jp/realtime/search?p=%23inART&ei=UTF-8&mtype=image
+tweet count -> 23
+datetime 2023-08-27 12:08:00
+date over => 16/14
+#inART result : 23
+UPDATE: 100%|███████████████████████████████████████████████████████████| 23/23 [00:00<?, ?it/s]
+holo scraper:  68%|██████████████████████████████▍              | 52/77 [48:55<03:44,  8.99s/it]Fanart : #いなート
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%84%E3%81%AA%E3%83%BC%E3%83%88&ei=UTF-8&mtype=image
+tweet count -> 26
+datetime 2023-08-13 00:00:00
+date over => 31/14
+#いなート result : 26
+UPDATE: 100%|█████████████████████████████████████████████████| 26/26 [00:00<00:00, 4664.52it/s]
+holo scraper:  69%|██████████████████████████████▉              | 53/77 [49:03<03:29,  8.72s/it]Fanart : #gawrt
+url -> https://search.yahoo.co.jp/realtime/search?p=%23gawrt&ei=UTF-8&mtype=image
+tweet count -> 25
+tweet count -> 25
+tweet count -> 57
+tweet count -> 84
+tweet count -> 107
+tweet count -> 134
+datetime 2023-08-26 14:42:00
+date over => 17/14
+#gawrt result : 134
+UPDATE: 100%|███████████████████████████████████████████████| 134/134 [00:00<00:00, 2789.19it/s]
+holo scraper:  70%|███████████████████████████████▌             | 54/77 [49:40<06:35, 17.19s/it]Fanart : #ameliaRT
+url -> https://search.yahoo.co.jp/realtime/search?p=%23ameliaRT&ei=UTF-8&mtype=image
+tweet count -> 19
+datetime 2023-08-26 20:56:00
+date over => 17/14
+#ameliaRT result : 19
+UPDATE: 100%|█████████████████████████████████████████████████| 19/19 [00:00<00:00, 1213.39it/s]
+holo scraper:  71%|████████████████████████████████▏            | 55/77 [49:48<05:18, 14.48s/it]Fanart : #IRySart
+url -> https://search.yahoo.co.jp/realtime/search?p=%23IRySart&ei=UTF-8&mtype=image
+tweet count -> 28
+datetime 2023-08-23 20:56:00
+date over => 20/14
+#IRySart result : 28
+UPDATE: 100%|█████████████████████████████████████████████████| 28/28 [00:00<00:00, 4667.00it/s]
+holo scraper:  73%|████████████████████████████████▋            | 56/77 [49:57<04:29, 12.84s/it]Fanart : #galaxillust
+url -> https://search.yahoo.co.jp/realtime/search?p=%23galaxillust&ei=UTF-8&mtype=image
+tweet count -> 37
+datetime 2021-08-25 00:00:00
+date over => 749/14
+#galaxillust result : 37
+UPDATE: 100%|███████████████████████████████████████████████████████████| 37/37 [00:00<?, ?it/s]
+holo scraper:  74%|█████████████████████████████████▎           | 57/77 [50:06<03:50, 11.55s/it]Fanart : #FineFaunart
+url -> https://search.yahoo.co.jp/realtime/search?p=%23FineFaunart&ei=UTF-8&mtype=image
+tweet count -> 31
+datetime 2023-08-13 00:00:00
+date over => 31/14
+#FineFaunart result : 31
+UPDATE: 100%|█████████████████████████████████████████████████| 31/31 [00:00<00:00, 1982.88it/s]
+holo scraper:  75%|█████████████████████████████████▉           | 58/77 [50:14<03:20, 10.57s/it]Fanart : #kronillust
+url -> https://search.yahoo.co.jp/realtime/search?p=%23kronillust&ei=UTF-8&mtype=image
+tweet count -> 32
+datetime 2023-08-20 18:12:00
+date over => 23/14
+#kronillust result : 32
+UPDATE: 100%|█████████████████████████████████████████████████| 32/32 [00:00<00:00, 1544.13it/s]
+holo scraper:  77%|██████████████████████████████████▍          | 59/77 [50:23<02:58,  9.90s/it]Fanart : #クロニーラスト
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%82%AF%E3%83%AD%E3%83%8B%E3%83%BC%E3%83%A9%E3%82%B9%E3%83%88&ei=UTF-8&mtype=image
+tweet count -> 6
+datetime 2021-08-19 00:00:00
+date over => 755/14
+#クロニーラスト result : 6
+UPDATE: 100%|█████████████████████████████████████████████████████████████| 6/6 [00:00<?, ?it/s]
+holo scraper:  78%|███████████████████████████████████          | 60/77 [50:30<02:36,  9.21s/it]Fanart : #drawMEI
+url -> https://search.yahoo.co.jp/realtime/search?p=%23drawMEI&ei=UTF-8&mtype=image
+tweet count -> 24
+tweet count -> 24
+tweet count -> 52
+datetime 2023-08-25 07:55:00
+date over => 18/14
+#drawMEI result : 52
+UPDATE: 100%|███████████████████████████████████████████████████████████| 52/52 [00:00<?, ?it/s]
+holo scraper:  79%|███████████████████████████████████▋         | 61/77 [50:50<03:17, 12.33s/it]Fanart : #ムメ絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%A0%E3%83%A1%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 27
+datetime 2021-08-25 00:00:00
+date over => 749/14
+#ムメ絵 result : 27
+UPDATE: 100%|█████████████████████████████████████████████████| 27/27 [00:00<00:00, 1740.43it/s]
+holo scraper:  81%|████████████████████████████████████▏        | 62/77 [50:58<02:44, 11.00s/it]Fanart : #illustrayBAE
+url -> https://search.yahoo.co.jp/realtime/search?p=%23illustrayBAE&ei=UTF-8&mtype=image
+tweet count -> 29
+datetime 2022-07-22 00:00:00
+date over => 418/14
+#illustrayBAE result : 29
+UPDATE: 100%|█████████████████████████████████████████████████| 29/29 [00:00<00:00, 6013.79it/s]
+holo scraper:  82%|████████████████████████████████████▊        | 63/77 [51:06<02:23, 10.26s/it]Fanart : #ベーアート
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%83%99%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88&ei=UTF-8&mtype=image
+tweet count -> 32
+datetime 2022-07-08 00:00:00
+date over => 432/14
+#ベーアート result : 32
+UPDATE: 100%|█████████████████████████████████████████████████| 32/32 [00:00<00:00, 2043.14it/s]
+holo scraper:  83%|█████████████████████████████████████▍       | 64/77 [51:14<02:04,  9.56s/it]Fanart : #faunline
+url -> https://search.yahoo.co.jp/realtime/search?p=%23faunline&ei=UTF-8&mtype=image
+tweet count -> 3
+datetime 2021-08-22 00:00:00
+date over => 752/14
+#faunline result : 3
+UPDATE: 100%|███████████████████████████████████████████████████| 3/3 [00:00<00:00, 3002.37it/s]
+holo scraper:  84%|█████████████████████████████████████▉       | 65/77 [51:23<01:50,  9.24s/it]Fanart : #絵ーちゃん
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E7%B5%B5%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93&ei=UTF-8&mtype=image
+tweet count -> 21
+tweet count -> 21
+tweet count -> 43
+datetime 2023-08-21 11:29:00
+date over => 22/14
+#絵ーちゃん result : 43
+UPDATE: 100%|███████████████████████████████████████████████████████████| 43/43 [00:00<?, ?it/s]
+holo scraper:  86%|██████████████████████████████████████▌      | 66/77 [51:42<02:15, 12.33s/it]Fanart : #のどかあーと
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%AE%E3%81%A9%E3%81%8B%E3%81%82%E3%83%BC%E3%81%A8&ei=UTF-8&mtype=image
+tweet count -> 31
+datetime 2023-01-04 00:00:00
+date over => 252/14
+#のどかあーと result : 31
+UPDATE: 100%|███████████████████████████████████████████████████████████| 31/31 [00:00<?, ?it/s]
+holo scraper:  87%|███████████████████████████████████████▏     | 67/77 [51:50<01:51, 11.10s/it]Fanart : #ShiorinOnAir
+url -> https://search.yahoo.co.jp/realtime/search?p=%23ShiorinOnAir&ei=UTF-8&mtype=image
+tweet count -> 2
+tweet count -> 2
+tweet count -> 10
+tweet count -> 12
+datetime 2023-08-25 13:51:00
+date over => 18/14
+#ShiorinOnAir result : 12
+UPDATE: 100%|████████████████████████████████████████████████| 12/12 [00:00<00:00, 12006.60it/s]
+holo scraper:  88%|███████████████████████████████████████▋     | 68/77 [52:16<02:20, 15.57s/it]Fanart : #bijouwled
+url -> https://search.yahoo.co.jp/realtime/search?p=%23bijouwled&ei=UTF-8&mtype=image
+tweet count -> 22
+datetime 2023-08-29 03:36:00
+date over => 15/14
+#bijouwled result : 22
+UPDATE: 100%|█████████████████████████████████████████████████| 22/22 [00:00<00:00, 1404.27it/s]
+holo scraper:  90%|████████████████████████████████████████▎    | 69/77 [52:25<01:48, 13.52s/it]Fanart : #RavenCrafts
+url -> https://search.yahoo.co.jp/realtime/search?p=%23RavenCrafts&ei=UTF-8&mtype=image
+tweet count -> 17
+tweet count -> 17
+tweet count -> 40
+datetime 2023-08-19 12:37:00
+date over => 24/14
+#RavenCrafts result : 40
+UPDATE: 100%|█████████████████████████████████████████████████| 40/40 [00:00<00:00, 9562.39it/s]
+holo scraper:  91%|████████████████████████████████████████▉    | 70/77 [52:44<01:46, 15.25s/it]Fanart : #FWMCpix
+url -> https://search.yahoo.co.jp/realtime/search?p=%23FWMCpix&ei=UTF-8&mtype=image
+tweet count -> 25
+tweet count -> 25
+tweet count -> 55
+tweet count -> 83
+tweet count -> 109
+datetime 2023-08-27 00:30:00
+date over => 17/14
+#FWMCpix result : 109
+UPDATE: 100%|██████████████████████████████████████████████| 109/109 [00:00<00:00, 10897.93it/s]
+holo scraper:  92%|█████████████████████████████████████████▍   | 71/77 [53:15<01:59, 19.91s/it]Fanart : #青ペン
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E9%9D%92%E3%83%9A%E3%83%B3&ei=UTF-8&mtype=image
+tweet count -> 13
+tweet count -> 13
+tweet count -> 31
+tweet count -> 45
+tweet count -> 62
+tweet count -> 81
+tweet count -> 103
+tweet count -> 120
+tweet count -> 140
+tweet count -> 157
+tweet count -> 177
+tweet count -> 202
+tweet count -> 215
+tweet count -> 229
+tweet count -> 247
+datetime 2023-01-07 00:00:00
+date over => 249/14
+#青ペン result : 247
+UPDATE: 100%|██████████████████████████████████████████████| 247/247 [00:00<00:00, 27376.08it/s]
+holo scraper:  94%|██████████████████████████████████████████   | 72/77 [55:13<04:06, 49.24s/it]Fanart : #Artnose
+url -> https://search.yahoo.co.jp/realtime/search?p=%23Artnose&ei=UTF-8&mtype=image
+tweet count -> 16
+tweet count -> 16
+tweet count -> 39
+tweet count -> 56
+tweet count -> 75
+tweet count -> 100
+tweet count -> 107
+tweet count -> 107
+button over => 3 / 3
+#Artnose result : 107
+UPDATE: 100%|█████████████████████████████████████████████████████████| 107/107 [00:00<?, ?it/s]
+holo scraper:  95%|██████████████████████████████████████████▋  | 73/77 [56:08<03:23, 50.93s/it]Fanart : #ririkart
+url -> https://search.yahoo.co.jp/realtime/search?p=%23ririkart&ei=UTF-8&mtype=image
+tweet count -> 18
+tweet count -> 18
+tweet count -> 36
+tweet count -> 55
+tweet count -> 71
+tweet count -> 94
+tweet count -> 129
+tweet count -> 155
+tweet count -> 187
+tweet count -> 187
+tweet count -> 187
+button over => 3 / 3
+#ririkart result : 187
+UPDATE: 100%|████████████████████████████████████████████████| 187/187 [00:00<00:00, 654.21it/s]
+holo scraper:  96%|███████████████████████████████████████████▏ | 74/77 [57:25<02:56, 58.95s/it]Fanart : #らでん似絵
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%82%89%E3%81%A7%E3%82%93%E4%BC%BC%E7%B5%B5&ei=UTF-8&mtype=image
+tweet count -> 16
+tweet count -> 16
+tweet count -> 36
+tweet count -> 56
+tweet count -> 76
+tweet count -> 93
+tweet count -> 110
+tweet count -> 137
+tweet count -> 162
+tweet count -> 167
+tweet count -> 167
+button over => 3 / 3
+#らでん似絵 result : 167
+UPDATE: 100%|█████████████████████████████████████████████████████████| 167/167 [00:00<?, ?it/s]
+holo scraper:  97%|███████████████████████████████████████████▊ | 75/77 [58:43<02:08, 64.50s/it]Fanart : #はじめ武勇伝
+url -> https://search.yahoo.co.jp/realtime/search?p=%23%E3%81%AF%E3%81%98%E3%82%81%E6%AD%A6%E5%8B%87%E4%BC%9D&ei=UTF-8&mtype=image
+tweet count -> 10
+tweet count -> 10
+tweet count -> 25
+tweet count -> 39
+tweet count -> 54
+tweet count -> 69
+tweet count -> 89
+tweet count -> 103
+tweet count -> 104
+tweet count -> 107
+tweet count -> 108
+tweet count -> 108
+tweet count -> 109
+tweet count -> 110
+tweet count -> 113
+tweet count -> 114
+tweet count -> 114
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 116
+tweet count -> 130
+tweet count -> 149
+tweet count -> 172
+tweet count -> 179
+tweet count -> 179
+button over => 3 / 3
+#はじめ武勇伝 result : 179
+UPDATE: 100%|█████████████████████████████████████████████████████████| 179/179 [00:00<?, ?it/s]
+holo scraper:  99%|█████████████████████████████████████████▍| 76/77 [1:06:32<03:05, 185.78s/it]Fanart : #AIart #hololive
+url -> https://search.yahoo.co.jp/realtime/search?p=%23AIart%20%23hololive&ei=UTF-8&mtype=image
+tweet count -> 0
+tweet count -> 0
+tweet count -> 3
+tweet count -> 8
+datetime 2023-08-25 23:48:00
+date over => 18/14
+#AIart #hololive result : 8
+UPDATE: 100%|███████████████████████████████████████████████████| 8/8 [00:00<00:00, 8002.49it/s]
+holo scraper: 100%|███████████████████████████████████████████| 77/77 [1:06:58<00:00, 52.19s/it]
+(base) PS D:\python\git\mohoo>
