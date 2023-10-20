@@ -132,7 +132,7 @@ def get_tweet(query:str,limit:int,date:int,driver):
             except:
                 url = ''
             try:
-                images = [i['src'] for i in [link for link in tweet.find_all('img') if 'https://rts-pctr.c.yimg.jp' in link['src']]]#画像のリスト
+                images = [i['src'] for i in [link for link in tweet.find('div','Tweet_imageContainerWrapper__wPE0R').find_all('img') if 'https://rts-pctr.c.yimg.jp' in link['src']]]#画像のリスト
             except:
                 images = []
 
