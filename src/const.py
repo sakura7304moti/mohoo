@@ -10,9 +10,14 @@ base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # hololive fanart tag list
 def holoList():
     holo_path = os.path.join(base_path, "options", "HoloFanArt.csv")
-    df = pd.read_csv(holo_path, index_col=0)
-    word_list = df["FanArt"].tolist()
-    return word_list
+    df = pd.read_csv(holo_path)
+    records = []
+    for index, row in df.iterrows():
+        hashtag = row["hashtag"]
+        url = row["url"]
+        rec = HoloName(hashtag,url)
+        records.append(rec)
+    return records
 
 
 # 各保存先
@@ -63,6 +68,14 @@ class option_sc:
 
 # QueryRecord---------------------------------------------
 import datetime
+
+class HoloName:
+    def __init__(self,hashtag,url):
+        self.hashtag = hashtag
+        self.url = url
+
+    def __dict__(self):
+        return {"hashtag":self.hashtag,"url":self.url}
 
 
 class TwitterQueryRecord:
