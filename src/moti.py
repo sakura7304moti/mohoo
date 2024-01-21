@@ -12,7 +12,8 @@ class Scraper:
     def holo_scraper(self, date: int = 30, limit: int = 3000):
         driver = utils.get_driver(False)
         for query in tqdm(holoList,desc="holo scraper"):
-            print(f'Fanart : {query}')
-            df = utils.get_tweet(query,limit,date,driver)
-            sqlite.update(df,query,'holo')
+            hashtag = query.hashtag
+            print(f'Fanart : {hashtag}')
+            df = utils.get_tweet(hashtag,limit,date,driver)
+            sqlite.update(df,hashtag,'holo')
         driver.close()

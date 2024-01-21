@@ -106,7 +106,10 @@ def date_parse(input_string:str):
         # "9月9日(土) 22:28" のような場合、指定されたフォーマットで日時を解析 9月9日(土) 22:28
         output_string = re.sub(r'\([^)]*\)', '', input_string)
         new_time = datetime.datetime.strptime(output_string, "%m月%d日 %H:%M")
-        new_time = new_time.replace(year=current_time.year)
+        if new_time.month > current_time.month:
+            new_time = new_time.replace(year=current_time.year - 1)
+        else:
+            new_time = new_time.replace(year=current_time.year)
     return new_time
 
 def get_tweet(query:str,limit:int,date:int,driver):

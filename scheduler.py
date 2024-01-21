@@ -32,6 +32,8 @@ try:
     file copy
     """
     shutil.copyfile(const.sqlite_db(),r'Z:\Python\monitter\sns.db')
+    shutil.copyfile(const.sqlite_db(),r'Z:\git\sharemotiApi2\scraper\database\twitter.db')
+    shutil.copyfile(const.sqlite_db(),r'X:\server\git\sharemotiApi2\scraper\database\twitter.db')
 except Exception as e:
     print(e)
     utils.message(e)
