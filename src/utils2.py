@@ -107,7 +107,8 @@ def get_tweet(hashtag:str , date:int , mode:str):
                 ]
             )
     
-        last_date = records[-1].date
+        if len(records) > 0:
+            last_date = records[-1].date
         if date_difference(last_date) > date:
             break
         print(f"\r　date_range -> {date_difference(last_date)}/{date} | tweets -> {len(tweets)}",end="")
