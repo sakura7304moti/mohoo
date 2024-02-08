@@ -63,8 +63,13 @@ def get_list(url:str , mode:str , hashtag:str):
 
         if like_count >= 10 and len(images) > 0:
             records.append(rec)
-    last_tweet_id = response.json()['timeline']['entry'][-1]['id']
-    last_date = datetime.datetime.utcfromtimestamp(response.json()['timeline']['entry'][-1]['createdAt']).date()
+
+    if len(response.json()['timeline']['entry']) == 0:
+        last_tweet_id = ''
+        last_date = datetime.datetime.now().date()
+    else:
+        last_tweet_id = response.json()['timeline']['entry'][-1]['id']
+        last_date = datetime.datetime.utcfromtimestamp(response.json()['timeline']['entry'][-1]['createdAt']).date()
     return records , last_tweet_id , last_date
 
 def date_difference(specified_date):
@@ -107,7 +112,8 @@ def get_tweet(hashtag:str , date:int , mode:str):
                     rec.likeCount
                 ]
             )
-    
+        if last_tweet_id == '':
+            break
         if date_difference(last_date) > date:
             break
         print(f"\r　date_range -> {date_difference(last_date)}/{date} | tweets -> {len(tweets)}",end="")
