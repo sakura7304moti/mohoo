@@ -64,7 +64,8 @@ def get_list(url:str , mode:str , hashtag:str):
         if like_count >= 10 and len(images) > 0:
             records.append(rec)
     last_tweet_id = response.json()['timeline']['entry'][-1]['id']
-    return records , last_tweet_id
+    last_date = datetime.datetime.utcfromtimestamp(response.json()['timeline']['entry'][-1]['createdAt']).date()
+    return records , last_tweet_id , last_date
 
 def date_difference(specified_date):
     """
@@ -78,7 +79,7 @@ def date_difference(specified_date):
 def get_tweet(hashtag:str , date:int , mode:str):
     tweets = []
     first_url = get_pagination_url(hashtag)
-    records , last_tweet_id = get_list(first_url , mode , hashtag)
+    records , last_tweet_id , last_date = get_list(first_url , mode , hashtag)
     for rec in records:
         tweets.append(
                 [
@@ -94,7 +95,7 @@ def get_tweet(hashtag:str , date:int , mode:str):
     index = 0
     while(True):
         url = get_pagination_url(hashtag , last_tweet_id)
-        records , last_tweet_id = get_list(url , last_tweet_id , hashtag)
+        records , last_tweet_id , last_date = get_list(url , last_tweet_id , hashtag)
         for rec in records:
             tweets.append(
                 [
@@ -107,8 +108,6 @@ def get_tweet(hashtag:str , date:int , mode:str):
                 ]
             )
     
-        if len(records) > 0:
-            last_date = records[-1].date
         if date_difference(last_date) > date:
             break
         print(f"\r　date_range -> {date_difference(last_date)}/{date} | tweets -> {len(tweets)}",end="")
