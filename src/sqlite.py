@@ -80,7 +80,6 @@ from . import const
 from . import utils
 
 def update(df,hashtag:str,mode:str):
-    utils.message(f'update start {hashtag}')
     # 正規表現パターン
     pattern = r'[\'"\[\]]'
 
@@ -103,7 +102,7 @@ def update(df,hashtag:str,mode:str):
         hash_list = [r[0]+r[2] for r in result]
         url_list = [r[2] for r in result]
     
-    for index,row in tqdm(df.iterrows(),total=len(df),desc='UPDATE'):
+    for index,row in df.iterrows():
 
         #要素の取得
         url = row['url']
@@ -171,7 +170,6 @@ def update(df,hashtag:str,mode:str):
 
     #重複したレコードを削除する(とりあえずの対処)
     remove_duplicates()
-    utils.message(f'update finish {hashtag}')
 
 """
 SELECT PAGE

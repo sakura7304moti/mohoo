@@ -13,4 +13,3 @@ class Scraper:
             print(f'Fanart : {hashtag}')
             df = utils2.get_tweet(hashtag,date,'holo')
             sqlite.update(df,hashtag,'holo')
-        driver.close()
